@@ -1,0 +1,25 @@
+function InitMacros(){
+	#macro ITEM_DEF_NAME 0
+	#macro ITEM_DEF_DESCRIPTION 1
+	#macro ITEM_DEF_SPRITE 2
+	#macro ITEM_DEF_ACTION 3
+	#macro ITEM_DEF_MAX 4
+	#macro ITEM_DEF_PRICE 5
+	
+	#macro ITEM_KEY_LEVEL_1 0
+	#macro ITEM_KEY_LEVEL_2 1
+	#macro ITEM_KEY_LEVEL_3 2
+	#macro ITEM_KEY_LEVEL_1_1 3
+	#macro ITEM_KEY_LEVEL_1_2 4
+	#macro ITEM_KEY_LEVEL_1_3 5
+	#macro ITEM_KEY_LEVEL_2_1 6
+	#macro ITEM_KEY_LEVEL_2_2 7
+	#macro ITEM_KEY_LEVEL_2_3 8
+	#macro ITEM_KEY_LEVEL_3_1 9
+	#macro ITEM_KEY_LEVEL_3_2 10
+	#macro ITEM_KEY_LEVEL_3_3 11
+	
+	#macro INVENTORY_ITEM 0
+	#macro INVENTORY_QUANTITY 1
+
+}
